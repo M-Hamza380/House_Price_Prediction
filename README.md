@@ -1,4 +1,4 @@
-# Multiple Linear Regression with Stochastic Gradient Descent
+# Multiple Linear Regression, Ridge, Lasso, ElasticNet, and Stochastic Gradient Descent
 
 A simple and explanatory repository for predicting home prices using Multiple Linear Regression with Stochastic Gradient Descent.
 
