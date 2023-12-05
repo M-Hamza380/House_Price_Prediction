@@ -1,10 +1,10 @@
 # Multiple Linear Regression, Ridge, Lasso, ElasticNet, and Stochastic Gradient Descent
 
-A simple and explanatory repository for predicting home prices using Multiple Linear Regression with Stochastic Gradient Descent.
+A simple and explanatory repository for predicting home prices using Different Regression Models and Stochastic Gradient Descent.
 
 ## Introduction
 
-This repository addresses a regression problem: predicting home prices. We employ the Multiple Linear Regression algorithm with Stochastic Gradient Descent to build a predictive model. This README provides an overview of the project, its objectives, and the steps taken to accomplish them.
+This repository addresses multiple regression problems: predicting home prices. We employ the Multiple Linear Regression algorithm, Ridge, Lasso, and ElasticNet with Stochastic Gradient Descent to build a predictive model. This README provides an overview of the project, its objectives, and the steps taken to accomplish them.
 
 ## Project Overview
 
