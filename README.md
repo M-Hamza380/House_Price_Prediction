@@ -48,6 +48,6 @@ We would like to acknowledge the Scikit-learn community and the open-source cont
 
 ## Contact
 
-For any questions or inquiries, please contact [Muhammad Hamza Anjumj](mailto:hamza.anjum380@gmail.com).
+For any questions or inquiries, please contact [Muhammad Hamza Anjum](mailto:hamza.anjum380@gmail.com)
 
 Happy coding!
