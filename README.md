@@ -41,11 +41,6 @@ To begin with this project, follow these steps:
 
 Contributions to this project are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License.
-
-The MIT License allows you to modify and distribute the code with certain conditions.
 
 ## Acknowledgments
 
