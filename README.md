@@ -1,10 +1,10 @@
-# Multiple Linear Regression with Stochastic Gradient Descent
+# Multiple Linear Regression, Ridge, Lasso, ElasticNet, and Stochastic Gradient Descent
 
-A simple and explanatory repository for predicting home prices using Multiple Linear Regression with Stochastic Gradient Descent.
+A simple and explanatory repository for predicting home prices using Different Regression Models and Stochastic Gradient Descent.
 
 ## Introduction
 
-This repository addresses a regression problem: predicting home prices. We employ the Multiple Linear Regression algorithm with Stochastic Gradient Descent to build a predictive model. This README provides an overview of the project, its objectives, and the steps taken to accomplish them.
+This repository addresses multiple regression problems: predicting home prices. We employ the Multiple Linear Regression algorithm, Ridge, Lasso, and ElasticNet with Stochastic Gradient Descent to build a predictive model. This README provides an overview of the project, its objectives, and the steps taken to accomplish them.
 
 ## Project Overview
 
@@ -41,11 +41,6 @@ To begin with this project, follow these steps:
 
 Contributions to this project are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License.
-
-The MIT License allows you to modify and distribute the code with certain conditions.
 
 ## Acknowledgments
 
@@ -53,6 +48,6 @@ We would like to acknowledge the Scikit-learn community and the open-source cont
 
 ## Contact
 
-For any questions or inquiries, please contact [Muhammad Hamza Anjumj](mailto:hamza.anjum380@gmail.com).
+For any questions or inquiries, please contact [Muhammad Hamza Anjum](mailto:hamza.anjum380@gmail.com)
 
 Happy coding!
